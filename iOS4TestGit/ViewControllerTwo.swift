@@ -23,7 +23,6 @@ class ViewControllerTwo: UIViewController {
 extension ViewControllerTwo {
     
     func setupSubviews() {
-        
         view.backgroundColor = .gray
         
         labelTwo.translatesAutoresizingMaskIntoConstraints = false
